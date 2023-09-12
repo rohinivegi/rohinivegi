@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is rohini
 trying to learn github
-hopefully i will learn something
+hopefully i will learn something.
 <!--
 **rohinivegi/rohinivegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
